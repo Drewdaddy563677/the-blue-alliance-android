@@ -1,6 +1,6 @@
 The Blue Alliance - Android App
 ===============================
-
+         Owner of Copyright; Mr. Andrew S. Gabriel 
 [![Build Status](https://img.shields.io/travis/the-blue-alliance/the-blue-alliance-android/master.svg?style=flat-square)](https://travis-ci.org/the-blue-alliance/the-blue-alliance-android) [![Coverage Status](https://img.shields.io/coveralls/the-blue-alliance/the-blue-alliance-android.svg?style=flat-square)](https://coveralls.io/r/the-blue-alliance/the-blue-alliance-android) [![Stories in Ready](https://badge.waffle.io/the-blue-alliance/the-blue-alliance-android.png?label=ready&title=Ready)](https://github.com/the-blue-alliance/the-blue-alliance-android/labels/ready) [![Stories in Needs Review](https://badge.waffle.io/the-blue-alliance/the-blue-alliance-android.png?label=needs-review&title=Needs%20Review)](https://github.com/the-blue-alliance/the-blue-alliance-android/labels/needs-review) [![Stories in On Hold](https://badge.waffle.io/the-blue-alliance/the-blue-alliance-android.png?label=on-hold&title=On%20Hold)](https://github.com/the-blue-alliance/the-blue-alliance-android/labels/on-hold)
 
 An Android app for accessing information about the FIRST Robotics Competition. This is a native mobile version of [The Blue Alliance](http://www.thebluealliance.com).
